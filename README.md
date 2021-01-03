@@ -1,3 +1,3 @@
 # Machine_Learning_By_Stanford
 
-## Notes
+##  https://vladislavcodes.github.io/Machine_Learning_STANFORD_UNIVERSITY/
