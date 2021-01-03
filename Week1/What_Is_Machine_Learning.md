@@ -3,10 +3,9 @@
 Two definitions of Machine Learning are offered. 
 <h3>Arthur Samuel described it as:</h3> "the field of study that gives computers the ability to learn without being explicitly programmed." This is an older, informal definition. <br>
 
-<h3>Tom Mitchell provides a more modern definition:</h3> "A computer program is said to learn from experience E with respect to some class of tasks T and performance measure P, if its performance at tasks in T, as measured by P, improves with experience E." 
-</br>
+<h3>Tom Mitchell provides a more modern definition:</h3> "A computer program is said to learn from experience E with respect to some class of tasks T and performance measure P, if its performance at tasks in T, as measured by P, improves with experience E." <br>
 
-<strong>Example: playing checkers.</strong> <br>
+<strong>Example: playing checkers.</strong> 
 
 E = the experience of playing many games of checkers <br>
 T = the task of playing checkers. <br>
