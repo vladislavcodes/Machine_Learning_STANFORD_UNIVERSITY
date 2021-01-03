@@ -8,9 +8,9 @@ Two definitions of Machine Learning are offered.
 
 <h3>Example: playing checkers.</h3> 
 
-<h4>E = the experience of playing many games of checkers <br></h4>
-<h4>T = the task of playing checkers. </h4>
-<h4>P = the probability that the program will win the next game. </h4>
+<h4>E = the experience of playing many games of checkers 
+T = the task of playing checkers. 
+P = the probability that the program will win the next game. </h4>
 
 In general, any machine learning problem can be assigned to one of two broad classifications:
 Supervised learning and Unsupervised learning.
