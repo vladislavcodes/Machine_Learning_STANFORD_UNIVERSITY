@@ -9,9 +9,7 @@ Two definitions of Machine Learning are offered.
 <h3>Example: playing checkers.</h3> 
 
 <h4>E</h4> = the experience of playing many games of checkers <br>
-
 <h4>T</h4> = the task of playing checkers. <br>
-
 <h4>P</h4> = the probability that the program will win the next game. <br>
 
 In general, any machine learning problem can be assigned to one of two broad classifications:
