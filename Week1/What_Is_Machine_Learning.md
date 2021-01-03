@@ -5,11 +5,12 @@ Two definitions of Machine Learning are offered.
 
 <h3>Tom Mitchell provides a more modern definition:</h3> "A computer program is said to learn from experience E with respect to some class of tasks T and performance measure P, if its performance at tasks in T, as measured by P, improves with experience E." <br>
 
+
 <strong>Example: playing checkers.</strong>
 
-E = the experience of playing many games of checkers
-T = the task of playing checkers.
-P = the probability that the program will win the next game.
+E = the experience of playing many games of checkers <br>
+T = the task of playing checkers. <br>
+P = the probability that the program will win the next game. <br>
 
 In general, any machine learning problem can be assigned to one of two broad classifications:
 Supervised learning and Unsupervised learning.
