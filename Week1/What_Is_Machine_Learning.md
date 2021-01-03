@@ -1,7 +1,9 @@
 # What is Machine Learning? <br>
 
 Two definitions of Machine Learning are offered. 
-<strong>Arthur Samuel described it as:</strong> "the field of study that gives computers the ability to learn without being explicitly programmed." This is an older, informal definition. <br>
+<strong>
+  
+Arthur Samuel described it as:</strong> "the field of study that gives computers the ability to learn without being explicitly programmed." This is an older, informal definition. <br>
 
 <strong>Tom Mitchell provides a more modern definition:</strong> "A computer program is said to learn from experience E with respect to some class of tasks T and performance measure P, if its performance at tasks in T, as measured by P, improves with experience E." <br><br>
 
