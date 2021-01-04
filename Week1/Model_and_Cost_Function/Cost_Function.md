@@ -4,7 +4,7 @@
 
 ![Cost Function](Cost_Function.png)
 
-<strong>To</<strong> break it apart, it is <strong>1/2 x̅</strong> where <strong>x̅</strong> is the mean of the squares of <strong>h_\θ(x_i) - y_i //θ - theta</strong> or the difference between the predicted value and the actual value.
+<strong>To</strong> break it apart, it is <strong>1/2 x̅</strong> where <strong>x̅</strong> is the mean of the squares of <strong>h_\θ(x_i) - y_i //θ - theta</strong> or the difference between the predicted value and the actual value.
 
 This function is otherwise called the "Squared error function", or "Mean squared error". The mean is halved <strong>(1/2)</strong>
 as a convenience for the computation of the gradient descent, as the derivative term of the square function will cancel out the <strong>1/2</strong>
