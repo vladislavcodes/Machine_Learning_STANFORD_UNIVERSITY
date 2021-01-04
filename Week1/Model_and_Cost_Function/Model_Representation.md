@@ -1,4 +1,4 @@
-Model Representation
+# Model Representation
 
 To establish notation for future use, we’ll use x^(i) to denote the “input” variables (living area in this example), also called input features, 
 and y^(i) to denote the “output” or target variable that we are trying to predict (price). 
