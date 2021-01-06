@@ -10,5 +10,5 @@ This function is otherwise called the "Squared error function", or "Mean squared
 as a convenience for the computation of the gradient descent, as the derivative term of the square function will cancel out the <strong>1/2</strong>
 term. The following image summarizes what the cost function does:
 
-![Cost Function](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/R2YF5Lj3EeajLxLfjQiSjg_110c901f58043f995a35b31431935290_Screen-Shot-2016-12-02-at-5.23.31-PM.png?expiry=1609891200000&hmac=F7xQfH6b2KSiEKjiW4kQqup0Wx6MykpcEBDx-VPozMU)
+![Cost Function](Mean_Squared_Error.png)
 
